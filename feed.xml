@@ -1,2 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Grant Getter Opportunities</title><link>https://www.grants.gov/</link><description>Potentially relevant Grants.gov opportunities</description><language>en-us</language><atom:link href="https://micom-hub.org/grant-getter-feed/feed.xml" rel="self" type="application/rss+xml" /><lastBuildDate>Mon, 19 Oct 2026 18:49:32 GMT</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Grant Getter Opportunities</title><link>https://www.grants.gov/</link><description>Potentially relevant Grants.gov opportunities</description><language>en-us</language><atom:link href="https://micom-hub.org/grant-getter-feed/feed.xml" rel="self" type="application/rss+xml" /><lastBuildDate>Mon, 19 Oct 2026 18:56:46 GMT</lastBuildDate><item><title>TEST: Grant Getter RSS integration</title><link>https://www.grants.gov/search-results-detail/grant-getter-test-001</link><guid isPermaLink="false">grants-gov-grant-getter-test-001</guid><pubDate>Mon, 19 Oct 2026 18:56:26 GMT</pubDate><description>Agency: Grant Getter Test Agency (TEST)
+Opportunity number: TEST-001
+Status: posted
+Open date: 03/01/2026
+Close date: 12/31/2026
+Assistance Listing: 00.000
+Matched search: RSS integration test</description></item></channel></rss>
